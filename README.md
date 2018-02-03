@@ -1,10 +1,6 @@
 # React Redux Loading Bar
 
-[![npm version](https://img.shields.io/npm/v/react-redux-loading-bar.svg?style=flat-square)](https://www.npmjs.com/package/react-redux-loading-bar)
-[![build status](https://img.shields.io/travis/mironov/react-redux-loading-bar/master.svg?style=flat-square)](https://travis-ci.org/mironov/react-redux-loading-bar)
-[![coverage status](https://coveralls.io/repos/github/mironov/react-redux-loading-bar/badge.svg?branch=master)](https://coveralls.io/github/mironov/react-redux-loading-bar?branch=master)
-[![npm downloads](https://img.shields.io/npm/dm/react-redux-loading-bar.svg?style=flat)](https://www.npmjs.com/package/react-redux-loading-bar)
-[![dependency status](https://david-dm.org/mironov/react-redux-loading-bar.svg)](https://david-dm.org/mironov/react-redux-loading-bar)
+### This is a fork of [react-redux-loading-bar](https://www.npmjs.com/package/react-redux-loading-bar) and unless you're taking one of my classes, you should use that instead. I forked it to avoid breaking changes (it really sucks to have to redo a whole course cause the loading library decided to change...)
 
 A React component that provides Loading Bar (aka Progress Bar) for long running tasks.
 

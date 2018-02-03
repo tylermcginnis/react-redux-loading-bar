@@ -1,9 +1,8 @@
 {
-  "name": "react-redux-loading-bar",
-  "version": "3.1.1",
-  "description": "Simple Loading Bar for Redux and React",
+  "name": "react-redux-loading",
+  "version": "1.0.0",
+  "description": "Unmaintained fork of react-redux-loading-bar to avoid any breaking changes.",
   "main": "build/index.js",
-  "typings": "index.d.ts",
   "scripts": {
     "build": "`npm bin`/babel src -d build",
     "build:watch": "npm run build -- --watch",
@@ -16,23 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "mironov/react-redux-loading-bar"
+    "url": "tylermcginnis/react-redux-loading-bar"
   },
-  "keywords": [
-    "react",
-    "redux",
-    "loading",
-    "loading-bar",
-    "progress",
-    "progress-bar",
-    "react-component"
-  ],
   "author": "Anton Mironov (ant.mironov@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mironov/react-redux-loading-bar/issues"
+    "url": "https://github.com/tylermcginnis/react-redux-loading-bar"
   },
-  "homepage": "https://github.com/mironov/react-redux-loading-bar",
+  "homepage": "https://github.com/tylermcginnis/react-redux-loading-bar",
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0 || ^16.0.0",
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0",
