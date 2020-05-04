@@ -1,5 +1,53 @@
 # Release History
 
+## 4.6.0
+  - Update dev dependencies and rebuild with newer Babel
+
+## 4.5.0
+  - Cancel termination animation if Loading Bar should be restarted
+
+## 4.4.0
+  - Update react-redux peer dependency requirement (contributed by @hugomn)
+
+## 4.3.0
+   - Add support for RTL Layout. Ref: #88
+
+## 4.2.0
+   - Support latest react-redux v6
+
+## 4.1.0
+   - Make the animation smoother (at least in Chrome)
+
+## 4.0.8
+   - Old browser compatibility (contributed by @dengbupapapa)
+
+## 4.0.7
+   - Revert changes introduced in v4.0.6 because they break modern browsers like Chrome
+
+## 4.0.6
+   - Animation needs to be compatible with ie9 and other browsers (contributed by @dengbupapapa)
+
+## 4.0.5
+   - Replace .includes with a broadly supported .indexOf alternative
+
+## 4.0.4
+   - Relax Redux dependency
+
+## 4.0.3
+   - Update to latest react-lifecycles-compat
+
+## 4.0.2
+   - Rebuild Loading Bar
+
+## 4.0.1
+   - Update react-lifecycles-compat dependency
+
+## 4.0.0
+   - Rewrite the code to be compatible with future React versions
+
+## 3.1.2
+   - Check for the scope property within the meta property of the action
+
 ## 3.1.1
    - Add scope support to type definitions (contributed by @Kovensky)
 
